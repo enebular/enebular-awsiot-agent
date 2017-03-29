@@ -1,0 +1,10 @@
+{
+	"host": "A1ZVWBSDU6JMPT.iot.ap-northeast-1.amazonaws.com",
+	"port": 8883,
+	"clientId": "enebular-test-20160516",
+	"thingName": "enebular-test-20160516",
+	"caCert": "./certs/root-CA.crt",
+	"clientCert": "./certs/aa2c36d61d-certificate.pem.crt",
+	"privateKey": "./certs/aa2c36d61d-private.pem.key",
+	"topic": "$aws/things/enebular-test-20160516/shadow/update"
+}
