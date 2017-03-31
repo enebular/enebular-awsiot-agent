@@ -14,3 +14,6 @@ cd example
 npm install
 npm start
 ```
+## Change Node-RED version
+
+Edit example/package.json, change dependencies.
